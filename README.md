@@ -11,10 +11,10 @@ Recreation of the ls command for Unix terminals.
 * -r (sort reversed)
 * -t (sort by mod. date)
 
-# COMPILATION:
+# compilation:
 > make re
 
-# USAGE:
+# usage:
 The usage is the same as the original ls'.
 
 > ./my_ls [FLAGS] [PATHS]
